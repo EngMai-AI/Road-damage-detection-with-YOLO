@@ -81,7 +81,10 @@ curl -X POST "http://127.0.0.1:8000/predict?model=yolo11s_e100_best&conf=0.3" -F
 
 Optional environment variables: `MODEL_DIR`, `DEFAULT_MODEL`, `DEFAULT_CONF`, `IMGSZ`.
 
-![App screenshot](screenshots/app_yolo11s.png)
+![App screenshot](<img width="836" height="830" alt="image" src="https://github.com/user-attachments/assets/7d98f94f-f0a3-4d56-ba81-1c00bd94cfd1" />
+<img width="886" height="873" alt="image" src="https://github.com/user-attachments/assets/140619da-1302-4724-b6b7-826feb61ac21" />
+<img width="870" height="825" alt="image" src="https://github.com/user-attachments/assets/c9d6af20-8140-43c8-b3e3-6ad861c26e54" />
+)
 
 ## Reproducing the experiments
 
